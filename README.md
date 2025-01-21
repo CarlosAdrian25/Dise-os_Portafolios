@@ -1,3 +1,1 @@
-# APP VERSION 1.0.0
-### ESTA APP SE ENFOCA EN LA BUSQUEDA Y RESCATE DE MASCOTAS.
-## ETAPA DE DESARROLLO SEMI ADULTA
+# Enfoque de Portafolios de Algunos Diseños Realizados 
